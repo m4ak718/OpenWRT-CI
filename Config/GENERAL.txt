@@ -8,6 +8,7 @@ CONFIG_PACKAGE_luci-app-samba4=y
 CONFIG_PACKAGE_luci-app-upnp=y
 CONFIG_PACKAGE_luci-app-strongswan-swanctl=y
 CONFIG_PACKAGE_luci-app-msd_lite=y
+CONFIG_PACKAGE_luci-app-arpbind=y
 
 #参数调整
 CONFIG_CCACHE=y
